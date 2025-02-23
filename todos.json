@@ -1,20 +1,3 @@
 [
-    {
-        "Title": "Buy milk",
-        "Completed": false,
-        "CreatedAt": "2025-02-23T21:54:37.795474567+06:00",
-        "CompletedAt": null
-    },
-    {
-        "Title": "Buy bread",
-        "Completed": false,
-        "CreatedAt": "2025-02-23T21:54:37.795474872+06:00",
-        "CompletedAt": null
-    },
-    {
-        "Title": "Buy eggs",
-        "Completed": false,
-        "CreatedAt": "2025-02-23T21:54:37.795475106+06:00",
-        "CompletedAt": null
-    }
+    
 ]
